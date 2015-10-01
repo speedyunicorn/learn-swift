@@ -6,11 +6,28 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		7A8C12A21BBCE1E8005CFD5A /* L3-Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L3-Variables.playground"; sourceTree = "<group>"; };
+		7A8C12A31BBCE23B005CFD5A /* L4-Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L4-Numbers.playground"; sourceTree = "<group>"; };
+		7A8C12A41BBCE48A005CFD5A /* L5-Conditional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L5-Conditional.playground"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		7A5222F91BBCE05B00A74DCD = {
 			isa = PBXGroup;
 			children = (
+				7A8C12A11BBCE1D4005CFD5A /* Lessons */,
 			);
+			sourceTree = "<group>";
+		};
+		7A8C12A11BBCE1D4005CFD5A /* Lessons */ = {
+			isa = PBXGroup;
+			children = (
+				7A8C12A21BBCE1E8005CFD5A /* L3-Variables.playground */,
+				7A8C12A31BBCE23B005CFD5A /* L4-Numbers.playground */,
+				7A8C12A41BBCE48A005CFD5A /* L5-Conditional.playground */,
+			);
+			name = Lessons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
