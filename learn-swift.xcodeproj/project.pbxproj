@@ -10,6 +10,9 @@
 		7A8C12A21BBCE1E8005CFD5A /* L3-Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L3-Variables.playground"; sourceTree = "<group>"; };
 		7A8C12A31BBCE23B005CFD5A /* L4-Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L4-Numbers.playground"; sourceTree = "<group>"; };
 		7A8C12A41BBCE48A005CFD5A /* L5-Conditional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L5-Conditional.playground"; sourceTree = "<group>"; };
+		7A8C12A51BBCE7B4005CFD5A /* L6-Loops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L6-Loops.playground"; sourceTree = "<group>"; };
+		7ACFC92E1BF81E1C00A5D49E /* L16-Classes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L16-Classes.playground"; sourceTree = "<group>"; };
+		7ACFC92F1C01864500A5D49E /* L17-classes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L17-classes.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -26,6 +29,9 @@
 				7A8C12A21BBCE1E8005CFD5A /* L3-Variables.playground */,
 				7A8C12A31BBCE23B005CFD5A /* L4-Numbers.playground */,
 				7A8C12A41BBCE48A005CFD5A /* L5-Conditional.playground */,
+				7A8C12A51BBCE7B4005CFD5A /* L6-Loops.playground */,
+				7ACFC92E1BF81E1C00A5D49E /* L16-Classes.playground */,
+				7ACFC92F1C01864500A5D49E /* L17-classes.playground */,
 			);
 			name = Lessons;
 			sourceTree = "<group>";
@@ -36,7 +42,7 @@
 		7A5222FA1BBCE05B00A74DCD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0710;
 			};
 			buildConfigurationList = 7A5222FD1BBCE05B00A74DCD /* Build configuration list for PBXProject "learn-swift" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -57,6 +63,8 @@
 		7A5222FE1BBCE05B00A74DCD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ENABLE_TESTABILITY = YES;
+				ONLY_ACTIVE_ARCH = YES;
 			};
 			name = Debug;
 		};
