@@ -13,12 +13,14 @@
 		7A8C12A51BBCE7B4005CFD5A /* L6-Loops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L6-Loops.playground"; sourceTree = "<group>"; };
 		7ACFC92E1BF81E1C00A5D49E /* L16-Classes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L16-Classes.playground"; sourceTree = "<group>"; };
 		7ACFC92F1C01864500A5D49E /* L17-classes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L17-classes.playground"; sourceTree = "<group>"; };
+		7ACFC9301C023FD600A5D49E /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		7A5222F91BBCE05B00A74DCD = {
 			isa = PBXGroup;
 			children = (
+				7ACFC9301C023FD600A5D49E /* readme.md */,
 				7A8C12A11BBCE1D4005CFD5A /* Lessons */,
 			);
 			sourceTree = "<group>";
