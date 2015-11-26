@@ -11,6 +11,8 @@
 		7A8C12A31BBCE23B005CFD5A /* L4-Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L4-Numbers.playground"; sourceTree = "<group>"; };
 		7A8C12A41BBCE48A005CFD5A /* L5-Conditional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L5-Conditional.playground"; sourceTree = "<group>"; };
 		7A8C12A51BBCE7B4005CFD5A /* L6-Loops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L6-Loops.playground"; sourceTree = "<group>"; };
+		7AABA60E1C07B03F00408721 /* L19-structures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L19-structures.playground"; sourceTree = "<group>"; };
+		7AABA60F1C07B7D400408721 /* L19B-structures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L19B-structures.playground"; sourceTree = "<group>"; };
 		7ACFC92E1BF81E1C00A5D49E /* L16-Classes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L16-Classes.playground"; sourceTree = "<group>"; };
 		7ACFC92F1C01864500A5D49E /* L17-classes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "L17-classes.playground"; sourceTree = "<group>"; };
 		7ACFC9301C023FD600A5D49E /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
@@ -34,6 +36,8 @@
 				7A8C12A51BBCE7B4005CFD5A /* L6-Loops.playground */,
 				7ACFC92E1BF81E1C00A5D49E /* L16-Classes.playground */,
 				7ACFC92F1C01864500A5D49E /* L17-classes.playground */,
+				7AABA60E1C07B03F00408721 /* L19-structures.playground */,
+				7AABA60F1C07B7D400408721 /* L19B-structures.playground */,
 			);
 			name = Lessons;
 			sourceTree = "<group>";
